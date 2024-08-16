@@ -1,0 +1,5 @@
+scikit-learn==1.2.2
+numpy==1.25.2
+oauthlib==3.2.2
+requests-oauthlib==2.0.0
+openai
